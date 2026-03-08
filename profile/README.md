@@ -1,6 +1,6 @@
 # LayerPay.org — offshore crypto payments for business
                                                                                                                                     
-  LayerPay.org is a privacy-first payment gateway for businesses that need to accept crypto without KYC or complex compliance. Simple dashboard, 5 networks, lowest fees in the industry.                                                                                                                                              
+  LayerPay.org is a privacy-first payment gateway for businesses that need to accept crypto without KYC or complex compliance. Simple dashboard, 4 networks, lowest fees in the industry.                                                                                                                                              
    
   ## Why it matters                                                                                                                                                  
   - Accept TRX, ETH, BSC, SOL, USDT, USDC without KYC requirements.                  
